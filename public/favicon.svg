@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="mGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b2545" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  <!-- Background Rounded Badge -->
+  <rect width="64" height="64" rx="16" fill="url(#mGrad)" />
+  
+  <!-- Graduation Cap -->
+  <polygon points="32,10 52,19 32,28 12,19" fill="#38bdf8" />
+  <path d="M46 22 v 10" stroke="#fde047" stroke-width="2.5" stroke-linecap="round" />
+  <circle cx="46" cy="33" r="2" fill="#fde047" />
+
+  <!-- Open Book -->
+  <path d="M12 48 c7-5 14-5 20 0 c6-5 13-5 20 0 V 30 c-7-5-14-5-20 0 c-6-5-13-5-20 0 Z" fill="#ffffff" />
+  <line x1="32" y1="30" x2="32" y2="48" stroke="#0b2545" stroke-width="2" />
+  
+  <!-- Stylized Accent -->
+  <circle cx="32" cy="54" r="3" fill="#ef4444" />
+</svg>
