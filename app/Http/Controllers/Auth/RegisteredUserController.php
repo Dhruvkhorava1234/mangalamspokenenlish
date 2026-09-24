@@ -32,13 +32,21 @@ class RegisteredUserController extends Controller
     {
         $request->validate([
             'name' => ['required', 'string', 'max:255'],
-            'email' => ['required', 'string', 'lowercase', 'email', 'max:255', 'unique:'.User::class],
+            'email' => ['nullable', 'string', 'lowercase', 'email', 'max:255', 'unique:'.User::class],
+            'phone' => ['nullable', 'string', 'regex:/^[0-9+\-\s]{7,15}$/', 'max:20', 'unique:'.User::class],
             'password' => ['required', 'confirmed', Rules\Password::defaults()],
         ]);
 
+        if (empty($request->email) && empty($request->phone)) {
+            throw ValidationException::withMessages([
+                'phone' => 'Please provide either a Phone Number or an Email to register.',
+            ]);
+        }
+
         $user = User::create([
             'name' => $request->name,
-            'email' => $request->email,
+            'email' => $request->email ?: null,
+            'phone' => $request->phone ?: null,
             'password' => Hash::make($request->password),
             'role' => 'student',
         ]);

@@ -243,6 +243,141 @@
     </section>
 
     <!-- ========================================== -->
+    <!-- CLASS HIGHLIGHTS & SLIDES ANIMATED SLIDER -->
+    <!-- ========================================== -->
+    <section class="gallery-slider-section">
+        <div class="container text-center">
+            <div class="section-label" style="display: inline-flex; margin-bottom: 0.5rem;">
+                <i data-lucide="sparkles" style="width: 1rem; height: 1rem;"></i>
+                <span>UNLOCK YOUR POTENTIAL WITH ENGLISH✨</span>
+            </div>
+            <h2 class="section-title" style="margin-bottom: 0.5rem;">
+                Why English is Important?
+            </h2>
+            <p style="color: var(--slate-600); max-width: 600px; margin: 0 auto; font-size: 0.95rem;">
+                English connects you to better education, better careers, and a bigger world. It builds confidence, improves communication, and helps you discover new opportunities. At Shree Mangalam Academy, we turn English learning into a practical skill for everyday life and career growth.
+            </p>
+        </div>
+
+        <!-- Infinite Loop Smooth Animated Marquee Slider -->
+        <div class="gallery-slider-wrapper">
+            <div class="gallery-slider-track">
+                @php
+                    $slides = [
+                        ['file' => '1.jpeg', 'caption' => 'Interactive Learning Sessions'],
+                        ['file' => '2.jpeg', 'caption' => 'Grammar & Vocabulary Practice'],
+                        ['file' => '3.jpeg', 'caption' => 'Student Group Discussions'],
+                        ['file' => '4.jpeg', 'caption' => 'Spoken English Practice'],
+                        ['file' => '5.jpeg', 'caption' => 'Confidence Building Activities'],
+                        ['file' => '6.jpeg', 'caption' => 'Daily Conversation Practice'],
+                        ['file' => '7.jpeg', 'caption' => 'Personalized Guidance'],
+                        ['file' => '8.jpeg', 'caption' => 'Public Speaking & Presentations'],
+                        ['file' => '9.jpeg', 'caption' => 'Interactive Visual Smart Class'],
+                        ['file' => '10.jpeg', 'caption' => 'Successful Batches & Celebrations'],
+                    ];
+                @endphp
+
+                {{-- Set 1 (Original items) --}}
+                @foreach($slides as $index => $slide)
+                    <div class="gallery-slide-card" 
+                         role="button" 
+                         tabindex="0"
+                         onclick="openGalleryLightbox({{ $index }})"
+                         title="Click to view full image">
+                        <img src="{{ asset('images/slides/' . $slide['file']) }}" alt="{{ $slide['caption'] }}" class="gallery-slide-img" loading="lazy">
+                        <div class="gallery-slide-badge">
+                            <i data-lucide="zoom-in" style="width: 0.9rem; height: 0.9rem; color: #38bdf8;"></i>
+                            <span>{{ $slide['caption'] }}</span>
+                        </div>
+                    </div>
+                @endforeach
+
+                {{-- Set 2 (Duplicated items for seamless infinite loop) --}}
+                @foreach($slides as $index => $slide)
+                    <div class="gallery-slide-card" 
+                         role="button" 
+                         tabindex="0"
+                         onclick="openGalleryLightbox({{ $index }})"
+                         title="Click to view full image"
+                         aria-hidden="true">
+                        <img src="{{ asset('images/slides/' . $slide['file']) }}" alt="{{ $slide['caption'] }}" class="gallery-slide-img" loading="lazy">
+                        <div class="gallery-slide-badge">
+                            <i data-lucide="zoom-in" style="width: 0.9rem; height: 0.9rem; color: #38bdf8;"></i>
+                            <span>{{ $slide['caption'] }}</span>
+                        </div>
+                    </div>
+                @endforeach
+            </div>
+        </div>
+
+        <!-- Lightbox Fullscreen Popup Modal -->
+        <div id="galleryLightbox" class="lightbox-modal" onclick="closeGalleryLightbox(event)">
+            <button type="button" class="lightbox-nav-btn lightbox-btn-prev" onclick="changeLightboxSlide(-1); event.stopPropagation();" title="Previous Image">
+                <i data-lucide="chevron-left" style="width: 1.5rem; height: 1.5rem;"></i>
+            </button>
+            <button type="button" class="lightbox-nav-btn lightbox-btn-next" onclick="changeLightboxSlide(1); event.stopPropagation();" title="Next Image">
+                <i data-lucide="chevron-right" style="width: 1.5rem; height: 1.5rem;"></i>
+            </button>
+
+            <div class="lightbox-container" onclick="event.stopPropagation()">
+                <button type="button" class="lightbox-btn-close" onclick="closeGalleryLightbox()" title="Close Viewer">
+                    &times;
+                </button>
+                <img id="lightboxImage" src="" alt="Shree Mangalam Poster" class="lightbox-img">
+                <div id="lightboxCaption" class="lightbox-caption-bar"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Lightbox Controller Script -->
+    <script>
+        const gallerySlides = @json($slides);
+        let currentSlideIndex = 0;
+
+        function openGalleryLightbox(index) {
+            currentSlideIndex = index;
+            updateLightboxContent();
+            const modal = document.getElementById('galleryLightbox');
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+            if (window.renderLucideIcons) window.renderLucideIcons();
+        }
+
+        function closeGalleryLightbox(e) {
+            if (e && e.target && e.target.closest('.lightbox-container') && !e.target.closest('.lightbox-btn-close')) {
+                return;
+            }
+            const modal = document.getElementById('galleryLightbox');
+            modal.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        function changeLightboxSlide(direction) {
+            currentSlideIndex = (currentSlideIndex + direction + gallerySlides.length) % gallerySlides.length;
+            updateLightboxContent();
+        }
+
+        function updateLightboxContent() {
+            const slide = gallerySlides[currentSlideIndex];
+            const imgEl = document.getElementById('lightboxImage');
+            const capEl = document.getElementById('lightboxCaption');
+            if (imgEl && capEl && slide) {
+                imgEl.src = "{{ asset('images/slides') }}/" + slide.file;
+                capEl.textContent = (currentSlideIndex + 1) + " / " + gallerySlides.length + " - " + slide.caption;
+            }
+        }
+
+        document.addEventListener('keydown', (e) => {
+            const modal = document.getElementById('galleryLightbox');
+            if (modal && modal.classList.contains('active')) {
+                if (e.key === 'Escape') closeGalleryLightbox();
+                if (e.key === 'ArrowRight') changeLightboxSlide(1);
+                if (e.key === 'ArrowLeft') changeLightboxSlide(-1);
+            }
+        });
+    </script>
+
+    <!-- ========================================== -->
     <!-- 3. WHY CHOOSE US PREVIEW -->
     <!-- ========================================== -->
     <section class="features-section">
