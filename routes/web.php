@@ -87,3 +87,13 @@ Route::middleware(['auth', 'admin'])->prefix('admin')->name('admin.')->group(fun
 });
 
 require __DIR__.'/auth.php';
+
+/*
+|--------------------------------------------------------------------------
+| 404 Fallback Route
+|--------------------------------------------------------------------------
+| Catches any unrecognized URL and renders our custom branded 404 error page.
+*/
+Route::fallback(function () {
+    return response()->view('errors.404', [], 404);
+});

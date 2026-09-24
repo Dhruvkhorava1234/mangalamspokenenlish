@@ -351,17 +351,10 @@ button {
     .brand-link {
         gap: 0.5rem;
     }
-    /* Compact nav-actions: hide button text labels, show only icons */
-    .nav-actions .btn-primary span,
-    .nav-actions .btn-secondary span {
-        display: none;
-    }
+    /* Hide auth buttons in top navbar on mobile – they live in the drawer instead */
     .nav-actions .btn-primary,
     .nav-actions .btn-secondary {
-        padding: 0.5rem;
-        border-radius: 0.5rem;
-        min-width: 2.2rem;
-        min-height: 2.2rem;
+        display: none;
     }
     /* Tighten nav-actions gap */
     .nav-actions {
