@@ -38,9 +38,9 @@
                     <span>+91 9033965711</span>
                 </a>
                 <span class="divider-pipe">|</span>
-                <a href="mailto:mangalamclasses@gmail.com" class="top-link" title="Email Us">
+                <a href="mailto:joshi.vijay700@gmail.com" class="top-link" title="Email Us">
                     <i data-lucide="mail"></i>
-                    <span>mangalamclasses@gmail.com</span>
+                    <span>joshi.vijay700@gmail.com</span>
                 </a>
             </div>
         </div>
@@ -196,8 +196,8 @@
                             <i data-lucide="book-open" style="width: 1.95rem; height: 1.95rem;"></i>
                         </div>
                         <div class="font-gujarati">
-                            <span class="footer-brand-title">શ્રી મંગલમ</span>
-                            <span class="footer-brand-subtitle">સ્પોકન ઇંગ્લીશ કલાસીસ</span>
+                            <span class="footer-brand-subtitle"style="color: #ffffff;">શ્રી મંગલમ</span>
+                            <span class="footer-brand-subtitle" style="color: #ffffff;">સ્પોકન ઇંગ્લીશ કલાસીસ</span>
                         </div>
                     </div>
                     <p class="footer-text">

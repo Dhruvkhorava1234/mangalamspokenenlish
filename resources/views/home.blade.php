@@ -20,10 +20,10 @@
                             આત્મવિશ્વાસ સાથે
                         </h2>
                         <h1 class="hero-title-en">
-                            SPEAK ENGLISH
+                            ઇંગ્લીશ બોલતા શીખો
                         </h1>
                         <p class="hero-tagline-motto">
-                            FOR A BRIGHTER TOMORROW
+                            FOR A BRIGHT FUTURE
                         </p>
                         
                         <div class="hero-pills-row">

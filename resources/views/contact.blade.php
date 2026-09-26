@@ -72,7 +72,7 @@
                             </div>
                             <div>
                                 <h4 class="cm-title">Official Email</h4>
-                                <a href="mailto:mangalamclasses@gmail.com" class="cm-link">mangalamclasses@gmail.com</a>
+                                <a href="mailto:joshi.vijay700@gmail.com" class="cm-link">joshi.vijay700@gmail.com</a>
                                 <p class="cm-sub">Send us your queries anytime</p>
                             </div>
                         </div>
