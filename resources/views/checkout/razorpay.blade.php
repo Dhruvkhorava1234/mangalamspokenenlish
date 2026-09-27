@@ -79,13 +79,13 @@
             justify-content: space-between;
         }
 
-        .test-badge {
+        .live-badge {
             display: inline-flex;
             align-items: center;
             gap: 0.45rem;
-            background: rgba(245, 158, 11, 0.15);
-            border: 1px solid rgba(245, 158, 11, 0.4);
-            color: #fcd34d;
+            background: rgba(16, 185, 129, 0.15);
+            border: 1px solid rgba(16, 185, 129, 0.4);
+            color: #34d399;
             font-size: 0.75rem;
             font-weight: 800;
             padding: 0.35rem 0.75rem;
@@ -191,10 +191,10 @@
                 <div>
                     <div
                         style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.25rem;">
-                        <span class="test-badge">
+                        <span class="live-badge">
                             <span
-                                style="width: 7px; height: 7px; border-radius: 9999px; background: #f59e0b; box-shadow: 0 0 8px #f59e0b;"></span>
-                            <span>RAZORPAY TEST MODE</span>
+                                style="width: 7px; height: 7px; border-radius: 9999px; background: #10b981; box-shadow: 0 0 8px #10b981;"></span>
+                            <span>OFFICIAL CHECKOUT</span>
                         </span>
                         <span style="font-size: 0.8rem; color: #64748b; font-weight: 600;">
                             ID: {{ substr($razorpayOrder['id'] ?? '', 0, 15) }}

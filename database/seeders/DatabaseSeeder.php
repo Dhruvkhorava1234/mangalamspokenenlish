@@ -18,40 +18,17 @@ class DatabaseSeeder extends Seeder
     {
         // 1. Create Admin User
         $admin = User::firstOrCreate(
-            ['email' => 'admin@example.com'],
+            ['email' => 'joshi.vijay700@gmail.com'],
             [
-                'name' => 'Vijay Joshi (Admin)',
-                'password' => Hash::make('password'),
+                'name' => 'Vijay Joshi',
+                'phone' => '9033965711',
+                'password' => Hash::make('vijayjoshi700'),
                 'role' => 'admin',
                 'email_verified_at' => now(),
             ]
         );
 
-        // 2. Create Test Student User
-        $student = User::firstOrCreate(
-            ['email' => 'student@example.com'],
-            [
-                'name' => 'Meet Patel',
-                'password' => Hash::make('password'),
-                'role' => 'student',
-                'email_verified_at' => now(),
-            ]
-        );
-
-        // 3. Run CourseSeeder for 5 image-based courses
+        // 2. Run CourseSeeder for courses
         $this->call(CourseSeeder::class);
-
-        // 4. Enroll the test student into Course 1 (Basic English Course) as an initial purchase demo
-        $firstCourse = Course::where('slug', 'basic-english-course')->first();
-        if ($firstCourse) {
-            Order::create([
-                'user_id' => $student->id,
-                'course_id' => $firstCourse->id,
-                'amount' => $firstCourse->price,
-                'payment_status' => 'paid',
-                'transaction_id' => 'pay_demo_' . strtolower(Str::random(18)),
-                'payment_method' => 'razorpay',
-            ]);
-        }
     }
 }
