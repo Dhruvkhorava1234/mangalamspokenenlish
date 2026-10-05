@@ -79,10 +79,300 @@
                 </p>
             </div>
 
-            <!-- Trustindex Live Google Reviews Widget Container -->
-            <div class="trustindex-google-reviews-wrapper" style="min-height: 400px; margin-bottom: 2rem;">
-                <script defer async src='https://cdn.trustindex.io/loader.js?c7ad93282355337d89861f78315'></script>
+            <!-- Google-Style Testimonial Cards Grid (Real Google Reviews) -->
+            <div class="testimonials-grid-wrapper" style="margin-bottom: 2.5rem;">
+
+                <div class="testi-grid">
+
+                    <!-- Card 1: Janvi Odedara -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #34A853, #1b5e20);">JO</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Janvi Odedara</span>
+                                <span class="testi-date">6 days ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"I am very happy with my Spoken English classes. The teaching method is simple, clear, and easy to understand. The teacher is supportive and encourages me to speak English confidently without hesitation. I have improved my vocabulary, grammar, pronunciation, and communication skills."</p>
+                    </div>
+
+                    <!-- Card 2: Vishnu Joshi -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #4285F4, #0d47a1);">VJ</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Vishnu Joshi</span>
+                                <span class="testi-date">2 weeks ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"An excellent learning experience! Vijay Sir's unique method of explaining concepts makes everything so simple to understand. He gives personal attention to every student. Thank you so much, Vijay Sir, for your amazing support and guidance!"</p>
+                    </div>
+
+                    <!-- Card 3: Vipul Godhaniya -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #f59e0b, #b45309);">VG</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Vipul Godhaniya</span>
+                                <span class="testi-date">a week ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"I am very happy with the Spoken English class. The teaching method is simple and easy to understand. I get regular speaking practice, which has improved my confidence. The conversation activities and vocabulary practice are very useful. I am now more comfortable speaking English in front of others. Thank you for your guidance."</p>
+                    </div>
+
+                    <!-- Card 4: Rahul Odedara -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #7c3aed, #312e81);">RO</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Rahul Odedara</span>
+                                <span class="testi-date">2 weeks ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"I really enjoy learning English in this class. The teacher explains every topic in a very simple and easy way. I have become more confident in speaking English after joining class. Vijay sir teaches in a friendly way. Thank you so much sir for your teaching and support! ☺️"</p>
+                    </div>
+
+                    <!-- Card 5: Karan Goraniya -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #EA4335, #880e4f);">KG</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Karan Goraniya</span>
+                                <span class="testi-date">2 weeks ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"This Spoken English class provides a positive and supportive learning environment. The teaching methodology is practical and focused on communication. Regular speaking activities, vocabulary building, grammar practice, and conversations have made a huge difference in my confidence."</p>
+                    </div>
+
+                    <!-- Card 6: hamir mori -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #0891b2, #0e7490);">HM</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Hamir Mori</span>
+                                <span class="testi-date">2 weeks ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"I really enjoy learning English in this class. The teacher explains every topic in a very simple and easy way. The classes are interesting, interactive, and helpful for improving my speaking, grammar, and vocabulary. I have become more confident every day."</p>
+                    </div>
+
+                    <!-- Card 7: AYUSH LODHARI -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #6366f1, #312e81);">AL</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Ayush Lodhari</span>
+                                <span class="testi-date">2 weeks ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"I am very happy with my spoken English class. The teacher explains everything clearly and makes the class interesting. I have improved my speaking, pronunciation, grammar, and confidence. The activities and conversations help me speak more fluently each day."</p>
+                    </div>
+
+                    <!-- Card 8: Manju Odedra -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #be185d, #9d174d);">MO</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Manju Odedra</span>
+                                <span class="testi-date">2 weeks ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"Mangal Classes has been a truly wonderful and memorable experience for me. I had so much fun, and at the same time, I got to learn so many new and valuable things. An experience I will cherish forever! 📚❤️"</p>
+                    </div>
+
+                    <!-- Card 9: Pratap Kuchhadiya -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #059669, #065f46);">PK</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Pratap Kuchhadiya</span>
+                                <span class="testi-date">2 weeks ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"I joined the Spoken English class to improve my communication skills. The classes have been very helpful. The teacher explains grammar, vocabulary, pronunciation, and speaking activities in a simple way. We get regular opportunities to practice and grow our confidence."</p>
+                    </div>
+
+                    <!-- Card 10: Kodiyatar Raju -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #d97706, #92400e);">KR</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Kodiyatar Raju</span>
+                                <span class="testi-date">2 weeks ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"I am very happy with the English tuition classes. The teaching is simple, clear, and easy to understand. My English grammar, vocabulary, speaking, and confidence have improved a lot. The teacher is very supportive, patient, and friendly."</p>
+                    </div>
+
+                    <!-- Card 11: ranjit Godhaniya -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #0891b2, #155e75);">RG</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Ranjit Godhaniya</span>
+                                <span class="testi-date">2 weeks ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"Excellent Spoken English class with a practical approach to learning. The teacher explains concepts clearly and provides plenty of speaking practice. My communication skills have improved tremendously since joining."</p>
+                    </div>
+
+                    <!-- Card 12: RASIK MAKWANA -->
+                    <div class="testi-card">
+                        <div class="testi-card-top">
+                            <div class="testi-avatar" style="background: linear-gradient(135deg, #7c3aed, #4c1d95);">RM</div>
+                            <div class="testi-meta">
+                                <span class="testi-name">Rasik Makwana</span>
+                                <span class="testi-date">2 years ago</span>
+                            </div>
+                            <div class="testi-google-g" title="Posted on Google">
+                                <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                            </div>
+                        </div>
+                        <div class="testi-stars">★★★★★</div>
+                        <p class="testi-text">"Best teaching spoken English. Highly recommend to everyone who wants to improve their English speaking skills. The quality of teaching is truly exceptional."</p>
+                    </div>
+
+                </div>
+
+                {{-- View All CTA --}}
+                <div style="text-align: center; margin-top: 2.5rem;">
+                    <a href="https://www.google.com/maps/place/Shree+Mangalam+Spoken+English+Classes" target="_blank" rel="noopener noreferrer"
+                       style="display: inline-flex; align-items: center; gap: 0.6rem; background: #ffffff; border: 2px solid #e2e8f0; color: #1e293b; font-weight: 700; font-size: 0.9rem; padding: 0.75rem 1.75rem; border-radius: 9999px; text-decoration: none; transition: all 0.25s ease; box-shadow: 0 2px 8px rgba(0,0,0,0.07);"
+                       onmouseover="this.style.borderColor='#4285F4'; this.style.color='#4285F4'; this.style.boxShadow='0 4px 16px rgba(66,133,244,0.2)';"
+                       onmouseout="this.style.borderColor='#e2e8f0'; this.style.color='#1e293b'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.07)';">
+                        <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
+                        View All Reviews on Google
+                        <i data-lucide="external-link" style="width: 0.95rem; height: 0.95rem;"></i>
+                    </a>
+                </div>
+
             </div>
+
+            <style>
+                .testi-grid {
+                    display: grid;
+                    grid-template-columns: repeat(3, 1fr);
+                    gap: 1.35rem;
+                }
+                @media (max-width: 1024px) { .testi-grid { grid-template-columns: repeat(2, 1fr); } }
+                @media (max-width: 640px)  { .testi-grid { grid-template-columns: 1fr; } }
+
+                .testi-card {
+                    background: #ffffff;
+                    border: 1px solid #e8edf5;
+                    border-radius: 1.25rem;
+                    padding: 1.5rem 1.6rem 1.6rem;
+                    box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+                    display: flex;
+                    flex-direction: column;
+                    gap: 0.65rem;
+                    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+                    cursor: default;
+                }
+                .testi-card:hover {
+                    transform: translateY(-4px);
+                    box-shadow: 0 12px 32px rgba(66,133,244,0.12);
+                    border-color: #c7d9fb;
+                }
+                .testi-card-top {
+                    display: flex;
+                    align-items: center;
+                    gap: 0.75rem;
+                }
+                .testi-avatar {
+                    width: 2.75rem;
+                    height: 2.75rem;
+                    border-radius: 9999px;
+                    color: #ffffff;
+                    font-weight: 800;
+                    font-size: 0.85rem;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-shrink: 0;
+                    letter-spacing: 0.03em;
+                }
+                .testi-meta {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 0.1rem;
+                    flex: 1;
+                    min-width: 0;
+                }
+                .testi-name {
+                    font-weight: 700;
+                    font-size: 0.925rem;
+                    color: #1e293b;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                }
+                .testi-date {
+                    font-size: 0.78rem;
+                    color: #94a3b8;
+                }
+                .testi-google-g {
+                    flex-shrink: 0;
+                    opacity: 0.85;
+                }
+                .testi-stars {
+                    font-size: 1.05rem;
+                    color: #f59e0b;
+                    letter-spacing: 0.06em;
+                    line-height: 1;
+                }
+                .testi-text {
+                    font-size: 0.875rem;
+                    color: #475569;
+                    line-height: 1.7;
+                    margin: 0;
+                    flex: 1;
+                }
+            </style>
 
             <!-- Post a Google Review Banner -->
             <div style="margin-top: 3.5rem; background: linear-gradient(135deg, #0b2545 0%, #133e75 100%); border-radius: 1.5rem; padding: 2.5rem; color: #ffffff; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 2rem; position: relative; overflow: hidden; box-shadow: var(--shadow-lg);">
