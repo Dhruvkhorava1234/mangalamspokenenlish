@@ -3,7 +3,7 @@
     <x-auth-session-status class="mb-4" :status="session('status')" />
 
     <!-- Demo Credentials Helper Card -->
-    <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 0.5rem; padding: 0.75rem 1rem; margin-bottom: 1.25rem; font-size: 0.8rem;">
+    <!-- <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 0.5rem; padding: 0.75rem 1rem; margin-bottom: 1.25rem; font-size: 0.8rem;">
         <strong style="color: #0b2545; display: block; margin-bottom: 0.25rem;">Demo Accounts Quick Click:</strong>
         <div style="display: flex; gap: 0.5rem; margin-top: 0.4rem; flex-wrap: wrap;">
             <button type="button" onclick="document.getElementById('login').value='admin@example.com'; document.getElementById('password').value='password';" style="background: #e0f2fe; color: #0369a1; font-weight: 700; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem;">
@@ -13,7 +13,7 @@
                 Fill Student (student@example.com)
             </button>
         </div>
-    </div>
+    </div> -->
 
     <form method="POST" action="{{ route('login') }}">
         @csrf
