@@ -1,4 +1,4 @@
-﻿@extends('layouts.app')
+@extends('layouts.app')
 
 @section('title', 'Manage Courses &bull; Admin Panel')
 
@@ -26,16 +26,17 @@
             @forelse($courses as $course)
                 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 1rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); overflow: hidden;">
                     <div style="display: flex; align-items: center; gap: 1rem; padding: 1rem;">
-                        @if($course->thumbnail)
-                            <img src="{{ asset('storage/' . $course->thumbnail) }}"
-                                 onerror="this.onerror=null; this.src='{{ asset('images/placeholders/course-default.svg') }}';"
-                                 alt="{{ $course->title }}"
-                                 style="width: 4rem; height: 4rem; object-fit: cover; border-radius: 0.6rem; border: 1px solid #e2e8f0; flex-shrink: 0;">
-                        @else
-                            <div style="width: 4rem; height: 4rem; flex-shrink: 0; border-radius: 0.6rem; background: #e0f2fe; color: #0284c7; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.1rem;">
-                                {{ substr($course->title, 0, 2) }}
-                            </div>
-                        @endif
+                        @php
+                            $thumbSrc = $course->thumbnail
+                                ? asset('storage/' . $course->thumbnail)
+                                : asset('images/placeholders/course-default.svg');
+                            $placeholder = asset('images/placeholders/course-default.svg');
+                        @endphp
+                        <img src="{{ $thumbSrc }}"
+                             data-placeholder="{{ $placeholder }}"
+                             onerror="this.onerror=null; this.src=this.dataset.placeholder;"
+                             alt="{{ $course->title }}"
+                             style="width: 4rem; height: 4rem; object-fit: cover; border-radius: 0.6rem; border: 1px solid #e2e8f0; flex-shrink: 0; background: #e0f2fe;">
                         <div style="flex: 1; min-width: 0;">
                             <h3 style="margin: 0; font-size: 0.95rem; font-weight: 800; color: #0f172a; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{ $course->title }}</h3>
                             <p style="margin: 0.2rem 0 0; font-size: 0.78rem; color: #64748b;">{{ $course->level }} &bull; {{ $course->duration }}</p>
