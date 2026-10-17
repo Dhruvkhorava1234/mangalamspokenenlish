@@ -312,6 +312,13 @@
 
     <!-- Razorpay Integration Script -->
     <script>
+        function submitFormFallback(response) {
+            document.getElementById('razorpay_payment_id').value = response.razorpay_payment_id;
+            document.getElementById('razorpay_order_id').value = response.razorpay_order_id;
+            document.getElementById('razorpay_signature').value = response.razorpay_signature;
+            document.getElementById('razorpay-form').submit();
+        }
+
         // Razorpay Standard Checkout Handler
         const razorpayOptions = {
             "key": "{{ $razorpayKeyId }}",
@@ -321,17 +328,43 @@
             "description": "{{ addslashes($course->title) }}",
             "image": "{{ asset('images/logo.png') }}",
             "order_id": "{{ $razorpayOrder['id'] }}",
+            "callback_url": "{{ route('checkout.process', $course->slug) }}",
             "handler": function (response) {
-                // Set hidden fields and auto-submit
-                document.getElementById('razorpay_payment_id').value = response.razorpay_payment_id;
-                document.getElementById('razorpay_order_id').value = response.razorpay_order_id;
-                document.getElementById('razorpay_signature').value = response.razorpay_signature;
-
                 const btn = document.getElementById('rzp-button');
                 btn.disabled = true;
-                btn.innerHTML = '<span>Verifying Payment...</span>';
+                btn.innerHTML = '<span style="display:inline-flex;align-items:center;gap:0.5rem;"><svg style="animation:spin 1s linear infinite;width:1.2rem;height:1.2rem;" fill="none" viewBox="0 0 24 24"><circle style="opacity:0.25;" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path style="opacity:0.75;" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z"></path></svg> Verifying Payment &amp; Unlocking Course...</span>';
 
-                document.getElementById('razorpay-form').submit();
+                // Attempt instant AJAX verification
+                fetch("{{ route('checkout.process', $course->slug) }}", {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json',
+                        'X-CSRF-TOKEN': '{{ csrf_token() }}'
+                    },
+                    body: JSON.stringify({
+                        razorpay_payment_id: response.razorpay_payment_id,
+                        razorpay_order_id: response.razorpay_order_id,
+                        razorpay_signature: response.razorpay_signature
+                    })
+                })
+                .then(function(res) {
+                    if (res.ok) {
+                        return res.json();
+                    }
+                    throw new Error('Server returned ' + res.status);
+                })
+                .then(function(data) {
+                    if (data && data.success && data.redirect_url) {
+                        window.location.href = data.redirect_url;
+                    } else {
+                        submitFormFallback(response);
+                    }
+                })
+                .catch(function(err) {
+                    console.warn('AJAX verification error, falling back to form submit:', err);
+                    submitFormFallback(response);
+                });
             },
             "prefill": {
                 "name": "{{ addslashes(Auth::user()->name) }}",

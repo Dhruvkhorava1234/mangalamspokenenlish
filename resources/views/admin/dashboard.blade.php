@@ -248,6 +248,69 @@
             </div>
         </div>
 
+        {{-- Flash alerts --}}
+        @if(session('success'))
+            <div style="background:#ecfdf5;border:1px solid #10b981;border-radius:0.75rem;padding:0.9rem 1.25rem;margin-bottom:1.5rem;color:#065f46;display:flex;align-items:center;gap:0.6rem;font-weight:600;">
+                <i data-lucide="check-circle-2" style="width:1.25rem;height:1.25rem;color:#10b981;"></i>
+                <span>{{ session('success') }}</span>
+            </div>
+        @endif
+        @if(session('error'))
+            <div style="background:#fef2f2;border:1px solid #ef4444;border-radius:0.75rem;padding:0.9rem 1.25rem;margin-bottom:1.5rem;color:#991b1b;display:flex;align-items:center;gap:0.6rem;font-weight:600;">
+                <i data-lucide="alert-circle" style="width:1.25rem;height:1.25rem;color:#ef4444;"></i>
+                <span>{{ session('error') }}</span>
+            </div>
+        @endif
+        @if(session('info'))
+            <div style="background:#f0f9ff;border:1px solid #0284c7;border-radius:0.75rem;padding:0.9rem 1.25rem;margin-bottom:1.5rem;color:#075985;display:flex;align-items:center;gap:0.6rem;font-weight:600;">
+                <i data-lucide="info" style="width:1.25rem;height:1.25rem;color:#0284c7;"></i>
+                <span>{{ session('info') }}</span>
+            </div>
+        @endif
+
+        {{-- Razorpay Payment Quick Sync Box --}}
+        <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:1rem;padding:1.25rem 1.5rem;margin-bottom:1.75rem;box-shadow:0 1px 3px rgba(0,0,0,0.05);">
+            <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:0.75rem;margin-bottom:1rem;">
+                <div style="display:flex;align-items:center;gap:0.6rem;">
+                    <div style="width:2.25rem;height:2.25rem;border-radius:0.5rem;background:#e0f2fe;color:#0284c7;display:flex;align-items:center;justify-content:center;">
+                        <i data-lucide="refresh-cw" style="width:1.2rem;height:1.2rem;"></i>
+                    </div>
+                    <div>
+                        <h3 style="margin:0;font-size:1rem;font-weight:800;color:#0f172a;">Sync Razorpay Payment by ID</h3>
+                        <p style="margin:0.15rem 0 0;font-size:0.8rem;color:#64748b;">If a student paid on Razorpay but their course didn't unlock or table was empty, enter Payment ID to instantly sync &amp; unlock.</p>
+                    </div>
+                </div>
+            </div>
+
+            <form method="POST" action="{{ route('admin.payments.sync') }}" style="display:flex;flex-wrap:wrap;gap:0.75rem;align-items:center;">
+                @csrf
+                <div style="flex:1;min-width:220px;">
+                    <input type="text" name="payment_id" required placeholder="Razorpay Payment ID (e.g. pay_xxxxxxxxxx)" 
+                           style="width:100%;border:1px solid #cbd5e1;border-radius:0.6rem;padding:0.65rem 0.9rem;font-size:0.875rem;font-family:monospace;background:#f8fafc;" />
+                </div>
+                <div style="min-width:180px;">
+                    <select name="course_id" style="width:100%;border:1px solid #cbd5e1;border-radius:0.6rem;padding:0.65rem 0.9rem;font-size:0.875rem;background:#ffffff;">
+                        <option value="">Auto-detect Course from notes</option>
+                        @foreach($allCourses ?? [] as $c)
+                            <option value="{{ $c->id }}">{{ $c->title }}</option>
+                        @endforeach
+                    </select>
+                </div>
+                <div style="min-width:180px;">
+                    <select name="user_id" style="width:100%;border:1px solid #cbd5e1;border-radius:0.6rem;padding:0.65rem 0.9rem;font-size:0.875rem;background:#ffffff;">
+                        <option value="">Auto-detect Student from notes/email</option>
+                        @foreach($allStudents ?? [] as $st)
+                            <option value="{{ $st->id }}">{{ $st->name }} ({{ $st->email }})</option>
+                        @endforeach
+                    </select>
+                </div>
+                <button type="submit" class="btn-primary" style="padding:0.65rem 1.25rem;font-size:0.875rem;font-weight:700;display:inline-flex;align-items:center;gap:0.4rem;border:none;cursor:pointer;">
+                    <i data-lucide="check-circle" style="width:1rem;height:1rem;"></i>
+                    <span>Sync &amp; Grant Access</span>
+                </button>
+            </form>
+        </div>
+
         {{-- ── Stat Cards Grid ── --}}
         <div class="admin-stats-grid">
             <div class="admin-stat-card">

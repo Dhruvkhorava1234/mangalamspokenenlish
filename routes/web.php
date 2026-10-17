@@ -3,8 +3,10 @@
 use App\Http\Controllers\Admin\CourseController as AdminCourseController;
 use App\Http\Controllers\Admin\DashboardController as AdminDashboardController;
 use App\Http\Controllers\CheckoutController;
+use App\Http\Controllers\ContactController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\PublicCourseController;
+use App\Http\Controllers\RazorpayWebhookController;
 use App\Http\Controllers\Student\CourseViewerController;
 use App\Http\Controllers\Student\DashboardController as StudentDashboardController;
 use Illuminate\Support\Facades\Auth;
@@ -34,8 +36,8 @@ Route::get('/testimonials', function () {
     return view('testimonials');
 })->name('testimonials');
 
-Route::get('/contact', [\App\Http\Controllers\ContactController::class, 'show'])->name('contact');
-Route::post('/contact', [\App\Http\Controllers\ContactController::class, 'submit'])->name('contact.submit');
+Route::get('/contact', [ContactController::class, 'show'])->name('contact');
+Route::post('/contact', [ContactController::class, 'submit'])->name('contact.submit');
 
 /*
 |--------------------------------------------------------------------------
@@ -46,6 +48,7 @@ Route::get('/dashboard', function () {
     if (Auth::user()->isAdmin()) {
         return redirect()->route('admin.dashboard');
     }
+
     return redirect()->route('student.dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
@@ -61,15 +64,20 @@ Route::middleware(['auth'])->group(function () {
     // Interactive Image-based Course Viewer
     Route::get('/learn/{course:slug}', [CourseViewerController::class, 'show'])->name('student.courses.viewer');
 
-    // Razorpay Checkout
+    // Razorpay Checkout View
     Route::get('/checkout/{course:slug}', [CheckoutController::class, 'show'])->name('checkout.show');
-    Route::post('/checkout/{course:slug}', [CheckoutController::class, 'process'])->name('checkout.process');
 
     // Breeze Profile Management
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
+
+// Razorpay Checkout Verification / Postback (Accessible by client callback, auto-restores session)
+Route::post('/checkout/{course:slug}', [CheckoutController::class, 'process'])->name('checkout.process');
+
+// Razorpay Automated Webhook Handler (Asynchronous gateway notification)
+Route::post('/razorpay/webhook', [RazorpayWebhookController::class, 'handle'])->name('razorpay.webhook');
 
 /*
 |--------------------------------------------------------------------------
@@ -79,6 +87,7 @@ Route::middleware(['auth'])->group(function () {
 Route::middleware(['auth', 'admin'])->prefix('admin')->name('admin.')->group(function () {
     Route::get('/dashboard', [AdminDashboardController::class, 'index'])->name('dashboard');
     Route::post('/notifications/mark-read', [AdminDashboardController::class, 'markNotificationsAsRead'])->name('notifications.markRead');
+    Route::post('/sync-payment', [AdminDashboardController::class, 'syncPayment'])->name('payments.sync');
 
     // Course Management CRUD
     Route::resource('courses', AdminCourseController::class);
