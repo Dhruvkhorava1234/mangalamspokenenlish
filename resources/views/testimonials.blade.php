@@ -89,103 +89,103 @@
                     <div class="testi-slide active">
                         <div class="testi-grid">
 
-                            <!-- 1. Ayush Lodhari -->
+                            <!-- 1. Dhruv Khorava -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">AL</div>
-                                    <div class="testi-meta"><span class="testi-name">Ayush Lodhari</span><span class="testi-date">3 weeks ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">DK</div>
+                                    <div class="testi-meta"><span class="testi-name">Dhruv Khorava</span><span class="testi-date">Just now</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"I am very happy with my spoken English class. The teacher explains everything clearly and makes the class interesting. I have improved my speaking, pronunciation, grammar, and confidence. The activities and conversations help me speak English without hesitation. I am thankful to my teacher for the guidance and support."</p>
+                                <p class="testi-text">"I used to come here to learn spoken English, and I really loved the culture and teaching style here. The learning environment was very supportive and helpful. Now, I can speak English confidently and properly. I’m really grateful for the guidance and support I received here."</p>
                             </div>
 
-                            <!-- 2. Pratap Kuchhadiya -->
+                            <!-- 2. Rasik Makwana -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#4285F4,#0d47a1)">PK</div>
-                                    <div class="testi-meta"><span class="testi-name">Pratap Kuchhadiya</span><span class="testi-date">3 weeks ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#4285F4,#0d47a1)">RM</div>
+                                    <div class="testi-meta"><span class="testi-name">Rasik Makwana</span><span class="testi-date">2 years ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"I joined the Spoken English class to improve my communication skills. The classes have been very helpful for me. The teacher explains grammar, vocabulary, pronunciation, and speaking activities in a simple way. We get regular opportunities to speak English, which has helped me overcome my fear and speak fluently."</p>
+                                <p class="testi-text">"Best teaching spoken english"</p>
                             </div>
 
-                            <!-- 3. POOJA PRATIK -->
+                            <!-- 3. Karan Odedara -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#f59e0b,#b45309)">PP</div>
-                                    <div class="testi-meta"><span class="testi-name">Pooja Pratik</span><span class="testi-date">6 days ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#f59e0b,#b45309)">KO</div>
+                                    <div class="testi-meta"><span class="testi-name">Karan Odedara</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Thank you for the wonderful teaching and support in improving my English."</p>
+                                <p class="testi-text">"The teaching style at Shree Mangalam Spoken English Classes is simple, practical, and highly effective. Vijay Joshi Sir explains concepts with great clarity and ensures every student gets personal attention. My vocabulary, sentence formation, and speaking confidence have improved tremendously. Highly recommended for anyone wanting to speak fluent English!"</p>
                             </div>
 
-                            <!-- 4. Raj Chudasama -->
+                            <!-- 4. Harish Bamaniya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#7c3aed,#312e81)">RC</div>
-                                    <div class="testi-meta"><span class="testi-name">Raj Chudasama</span><span class="testi-date">6 days ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#7c3aed,#312e81)">HB</div>
+                                    <div class="testi-meta"><span class="testi-name">Harish Bamaniya</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"I really enjoy learning English in this class. The teacher explains every topic in a very simple and easy way. I have become more confident in speaking English after joining class. Vijay sir teaches in a friendly way. Thank you so much sir for your teaching and support!"</p>
+                                <p class="testi-text">"One of the best spoken English classes in Porbandar! Vijay Joshi Sir is a very supportive and experienced teacher. He focuses on individual student growth, pronunciation, and daily speaking practice. The environment is positive and motivating. Truly the right place to build English communication skills."</p>
                             </div>
 
-                            <!-- 5. Aarati Khunti -->
+                            <!-- 5. Pooja Vegada -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#EA4335,#880e4f)">AK</div>
-                                    <div class="testi-meta"><span class="testi-name">Aarati Khunti</span><span class="testi-date">6 days ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#EA4335,#880e4f)">PV</div>
+                                    <div class="testi-meta"><span class="testi-name">Pooja Vegada</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Thank you so much sir for your guidance and making English learning so easy and interactive."</p>
+                                <p class="testi-text">"Excellent Spoken English Classes! The learning atmosphere is very comfortable and Vijay Sir pays attention to every learner. His unique teaching technique makes complex grammar concepts easy to grasp. I have noticed a huge improvement in my English conversation ability."</p>
                             </div>
 
-                            <!-- 6. Janvi Odedara -->
+                            <!-- 6. Mahesh Sisodiya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#0891b2,#0e7490)">JO</div>
-                                    <div class="testi-meta"><span class="testi-name">Janvi Odedara</span><span class="testi-date">1 month ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#0891b2,#0e7490)">MS</div>
+                                    <div class="testi-meta"><span class="testi-name">Mahesh Sisodiya</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Shree Mangalam Classes is the best place to learn spoken English in Porbandar. Vijay Sir's teaching method is exceptional. Grammar and vocabulary are taught effortlessly through conversation practice."</p>
+                                <p class="testi-text">"My English teacher is very kind and helpful. He teaches us English in a simple and easy way. He explains grammar and sentences clearly. He encourages us to speak English without fear. His teaching style is interesting and enjoyable. I have improved my English because of his guidance. I am very thankful to Vijay sir."</p>
                             </div>
 
-                            <!-- 7. Mayank Modha -->
+                            <!-- 7. Kotiya Daxesh -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#6366f1,#312e81)">MM</div>
-                                    <div class="testi-meta"><span class="testi-name">Mayank Modha</span><span class="testi-date">1 month ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#059669,#065f46)">KD</div>
+                                    <div class="testi-meta"><span class="testi-name">Kotiya Daxesh</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very good classes for English speaking. My hesitation is completely gone now. Highly recommended!"</p>
+                                <p class="testi-text">"Shree Mangalam Classes is one of the best Spoken English Coaching Class in Porbandar. Vijay sir delivered English language excellently to us for making language much easier and fullfill our needs."</p>
                             </div>
 
-                            <!-- 8. Divya Parmar -->
+                            <!-- 8. Ranjit Godhaniya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#be185d,#9d174d)">DP</div>
-                                    <div class="testi-meta"><span class="testi-name">Divya Parmar</span><span class="testi-date">2 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#2563eb,#1e40af)">RG</div>
+                                    <div class="testi-meta"><span class="testi-name">Ranjit Godhaniya</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Best spoken English classes in town. Friendly environment and great personal attention given to every student."</p>
+                                <p class="testi-text">"Excellent Spoken English class with a practical approach to learning. The teacher explains concepts clearly and provides plenty of speaking practice. My confidence and fluency have improved significantly. Highly recommended!"</p>
                             </div>
 
-                            <!-- 9. Kishan Joshi -->
+                            <!-- 9. Sneha Gohel -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#059669,#065f46)">KJ</div>
-                                    <div class="testi-meta"><span class="testi-name">Kishan Joshi</span><span class="testi-date">2 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#9333ea,#581c87)">SG</div>
+                                    <div class="testi-meta"><span class="testi-name">Sneha Gohel</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Amazing experience! Improved my pronunciation and grammar significantly within a few weeks."</p>
+                                <p class="testi-text">"Best coaching for improving skills and knowledge. Great learning experience!"</p>
                             </div>
 
                         </div>
@@ -195,103 +195,103 @@
                     <div class="testi-slide">
                         <div class="testi-grid">
 
-                            <!-- 10. Ramilaben Solanki -->
+                            <!-- 10. Rajesh Odedara -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#d97706,#92400e)">RS</div>
-                                    <div class="testi-meta"><span class="testi-name">Ramilaben Solanki</span><span class="testi-date">2 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#d97706,#92400e)">RO</div>
+                                    <div class="testi-meta"><span class="testi-name">Rajesh Odedara</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Excellent teaching style. Even homemakers and beginners can learn English easily here."</p>
+                                <p class="testi-text">"Good"</p>
                             </div>
 
-                            <!-- 11. Hitesh Makwana -->
+                            <!-- 11. Kamlesh Bariya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#2563eb,#1e40af)">HM</div>
-                                    <div class="testi-meta"><span class="testi-name">Hitesh Makwana</span><span class="testi-date">3 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">KB</div>
+                                    <div class="testi-meta"><span class="testi-name">Kamlesh Bariya</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very supportive teacher. Interactive sessions build real confidence in public speaking."</p>
+                                <p class="testi-text">"I am very happy with my Spoken English classes. The teaching method is simple, clear, and easy to understand. The teacher is supportive and encourages me to speak English confidently without hesitation. I have improved my vocabulary, speaking skills, and overall confidence."</p>
                             </div>
 
-                            <!-- 12. Sneha Rathod -->
+                            <!-- 12. Lilesh Odedra -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#9333ea,#581c87)">SR</div>
-                                    <div class="testi-meta"><span class="testi-name">Sneha Rathod</span><span class="testi-date">3 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#4285F4,#0d47a1)">LO</div>
+                                    <div class="testi-meta"><span class="testi-name">Lilesh Odedra</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"I loved the conversational activities. Best coaching for English improvement."</p>
+                                <p class="testi-text">"Best spoken english class in Porbandar! Highly recommended."</p>
                             </div>
 
-                            <!-- 13. Vishal Chauhan -->
+                            <!-- 13. Rahul Odedara -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">VC</div>
-                                    <div class="testi-meta"><span class="testi-name">Vishal Chauhan</span><span class="testi-date">3 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#f59e0b,#b45309)">RO</div>
+                                    <div class="testi-meta"><span class="testi-name">Rahul Odedara</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Superb classes! Vijay sir explains everything with practical examples."</p>
+                                <p class="testi-text">"I really enjoy learning English in this class. The teacher explains every topic in a very simple and easy way. I have become more confident in speak English after joining class. Vijay sir teaches friendly and thank you so much sir for your teaching and support!"</p>
                             </div>
 
-                            <!-- 14. Rekhaben Chavda -->
+                            <!-- 14. Mashri Makwana -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#4285F4,#0d47a1)">RC</div>
-                                    <div class="testi-meta"><span class="testi-name">Rekhaben Chavda</span><span class="testi-date">4 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#7c3aed,#312e81)">MM</div>
+                                    <div class="testi-meta"><span class="testi-name">Mashri Makwana</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very nice coaching class. My vocabulary and sentence formation improved a lot."</p>
+                                <p class="testi-text">"I highly recommend Shree Mangalam Classes for English learning. Vijay Sir Joshi provides excellent guidance and friendly teaching. My fluency and communication skills have improved a lot."</p>
                             </div>
 
-                            <!-- 15. Bharatbhai Keshwala -->
+                            <!-- 15. Odedara Rahul -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#f59e0b,#b45309)">BK</div>
-                                    <div class="testi-meta"><span class="testi-name">Bharatbhai Keshwala</span><span class="testi-date">4 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#EA4335,#880e4f)">OR</div>
+                                    <div class="testi-meta"><span class="testi-name">Odedara Rahul</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Great institute for spoken English in Porbandar. Worth every single penny."</p>
+                                <p class="testi-text">"Good classes for spoken English and best teacher."</p>
                             </div>
 
-                            <!-- 16. Bhavna Odedara -->
+                            <!-- 16. Vipul Godhaniya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#7c3aed,#312e81)">BO</div>
-                                    <div class="testi-meta"><span class="testi-name">Bhavna Odedara</span><span class="testi-date">4 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#0891b2,#0e7490)">VG</div>
+                                    <div class="testi-meta"><span class="testi-name">Vipul Godhaniya</span><span class="testi-date">3 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Wonderful learning environment and very encouraging teacher."</p>
+                                <p class="testi-text">"I am very happy with the Spoken English class. The teaching method is simple and easy to understand. I get regular speaking practice, which has improved my confidence. The conversation activities and vocabulary practice are very useful. I am now more comfortable speaking English in front of others. Thank you for your guidance."</p>
                             </div>
 
-                            <!-- 17. Chirag Joshi -->
+                            <!-- 17. Karan Goraniya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#EA4335,#880e4f)">CJ</div>
-                                    <div class="testi-meta"><span class="testi-name">Chirag Joshi</span><span class="testi-date">5 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#059669,#065f46)">KG</div>
+                                    <div class="testi-meta"><span class="testi-name">Karan Goraniya</span><span class="testi-date">3 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Best place to overcome stage fear and speak fluent English."</p>
+                                <p class="testi-text">"This Spoken English class provides a positive and supportive learning environment. The teaching methodology is practical and focused on communication. Regular speaking activities, vocabulary building, grammar practice, and conversations have helped me overcome my fear of English."</p>
                             </div>
 
-                            <!-- 18. Darshana Kerai -->
+                            <!-- 18. Ayush Lodhari -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#0891b2,#0e7490)">DK</div>
-                                    <div class="testi-meta"><span class="testi-name">Darshana Kerai</span><span class="testi-date">5 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#2563eb,#1e40af)">AL</div>
+                                    <div class="testi-meta"><span class="testi-name">Ayush Lodhari</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very systematic approach to teaching grammar and spoken English."</p>
+                                <p class="testi-text">"I am very happy with my spoken English class. The teacher explains everything clearly and makes the class interesting. I have improved my speaking, pronunciation, grammar, and confidence. The activities and conversations help me speak English without hesitation. I am thankful to my teacher for the guidance and support."</p>
                             </div>
 
                         </div>
@@ -301,103 +301,103 @@
                     <div class="testi-slide">
                         <div class="testi-grid">
 
-                            <!-- 19. Gautam Dabhi -->
+                            <!-- 19. Kodiyatar Raju -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#6366f1,#312e81)">GD</div>
-                                    <div class="testi-meta"><span class="testi-name">Gautam Dabhi</span><span class="testi-date">5 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#9333ea,#581c87)">KR</div>
+                                    <div class="testi-meta"><span class="testi-name">Kodiyatar Raju</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Excellent coaching. Sir gives individual attention to all students."</p>
+                                <p class="testi-text">"I am very happy with the English tuition classes. The teaching is simple, clear, and easy to understand. My English grammar, vocabulary, speaking, and confidence have improved a lot. The teacher is very supportive, patient, and friendly. The class environment is comfortable for learning. Thank you, sir, for your guidance and support."</p>
                             </div>
 
-                            <!-- 20. Hansa Vadher -->
+                            <!-- 20. Pratap Kuchhadiya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#be185d,#9d174d)">HV</div>
-                                    <div class="testi-meta"><span class="testi-name">Hansa Vadher</span><span class="testi-date">6 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#d97706,#92400e)">PK</div>
+                                    <div class="testi-meta"><span class="testi-name">Pratap Kuchhadiya</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very happy with my progress. Thank you Vijay sir."</p>
+                                <p class="testi-text">"I joined the Spoken English class to improve my communication skills. The classes have been very helpful for me. The teacher explains grammar, vocabulary, pronunciation, and speaking activities in a simple way. We get regular opportunities to speak English, which has helped me overcome my fear and speak fluently."</p>
                             </div>
 
-                            <!-- 21. Jignesh Makwana -->
+                            <!-- 21. Vishnu Joshi -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#059669,#065f46)">JM</div>
-                                    <div class="testi-meta"><span class="testi-name">Jignesh Makwana</span><span class="testi-date">6 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">VJ</div>
+                                    <div class="testi-meta"><span class="testi-name">Vishnu Joshi</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Top quality English classes in Porbandar."</p>
+                                <p class="testi-text">"An excellent learning experience! Vijay Sir’s unique method of explaining concepts makes everything so simple to understand. He gives personal attention to every student. Thank you so much, Vijay Sir, for your amazing support and guidance!"</p>
                             </div>
 
-                            <!-- 22. Kajal Gorariya -->
+                            <!-- 22. M D Khunti -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#d97706,#92400e)">KG</div>
-                                    <div class="testi-meta"><span class="testi-name">Kajal Gorariya</span><span class="testi-date">6 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#4285F4,#0d47a1)">MD</div>
+                                    <div class="testi-meta"><span class="testi-name">M D Khunti</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Learned so much about sentence structure and pronunciation."</p>
+                                <p class="testi-text">"Best place for learning english"</p>
                             </div>
 
-                            <!-- 23. Lalit Parmar -->
+                            <!-- 23. Mukesh Goraniya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#2563eb,#1e40af)">LP</div>
-                                    <div class="testi-meta"><span class="testi-name">Lalit Parmar</span><span class="testi-date">7 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#f59e0b,#b45309)">MG</div>
+                                    <div class="testi-meta"><span class="testi-name">Mukesh Goraniya</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Fantastic classes with practical speaking practice."</p>
+                                <p class="testi-text">"Best classes"</p>
                             </div>
 
-                            <!-- 24. Meera Soneji -->
+                            <!-- 24. Thanki Mayur -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#9333ea,#581c87)">MS</div>
-                                    <div class="testi-meta"><span class="testi-name">Meera Soneji</span><span class="testi-date">7 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#7c3aed,#312e81)">TM</div>
+                                    <div class="testi-meta"><span class="testi-name">Thanki Mayur</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very friendly and professional teaching methods."</p>
+                                <p class="testi-text">"Excellent work of vijay sir"</p>
                             </div>
 
-                            <!-- 25. Nilesh Odedara -->
+                            <!-- 25. Lakhu Sundavdra -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">NO</div>
-                                    <div class="testi-meta"><span class="testi-name">Nilesh Odedara</span><span class="testi-date">7 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#EA4335,#880e4f)">LS</div>
+                                    <div class="testi-meta"><span class="testi-name">Lakhu Sundavdra</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Helped me a lot in my career interviews and communication."</p>
+                                <p class="testi-text">"Good"</p>
                             </div>
 
-                            <!-- 26. Pallavi Thaker -->
+                            <!-- 26. Bhavisha Khunti -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#4285F4,#0d47a1)">PT</div>
-                                    <div class="testi-meta"><span class="testi-name">Pallavi Thaker</span><span class="testi-date">8 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#0891b2,#0e7490)">BK</div>
+                                    <div class="testi-meta"><span class="testi-name">Bhavisha Khunti</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Best institute for building English fluency from scratch."</p>
+                                <p class="testi-text">"My learning experience at Mangalam Classes was truly wonderful and memorable. Great teaching environment!"</p>
                             </div>
 
-                            <!-- 27. Rajeshree Joshi -->
+                            <!-- 27. Akhil Modha -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#f59e0b,#b45309)">RJ</div>
-                                    <div class="testi-meta"><span class="testi-name">Rajeshree Joshi</span><span class="testi-date">8 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#059669,#065f46)">AM</div>
+                                    <div class="testi-meta"><span class="testi-name">Akhil Modha</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very clear explanations and great interactive sessions."</p>
+                                <p class="testi-text">"Great experience and very helpful guidance by Vijay sir!"</p>
                             </div>
 
                         </div>
@@ -407,103 +407,103 @@
                     <div class="testi-slide">
                         <div class="testi-grid">
 
-                            <!-- 28. Sanjay Modhwadia -->
+                            <!-- 28. Hamir Mori -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#7c3aed,#312e81)">SM</div>
-                                    <div class="testi-meta"><span class="testi-name">Sanjay Modhwadia</span><span class="testi-date">8 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#2563eb,#1e40af)">HM</div>
+                                    <div class="testi-meta"><span class="testi-name">Hamir Mori</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Outstanding results after joining Shree Mangalam Classes."</p>
+                                <p class="testi-text">"I really enjoy learning English in this class. The teacher explains every topic in a very simple and easy way. The classes are interesting, interactive, and helpful for improving my speaking, grammar, and vocabulary. I have become more confident in English conversation."</p>
                             </div>
 
-                            <!-- 29. Tanvi Babaria -->
+                            <!-- 29. Hothi D. -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#EA4335,#880e4f)">TB</div>
-                                    <div class="testi-meta"><span class="testi-name">Tanvi Babaria</span><span class="testi-date">9 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#9333ea,#581c87)">HD</div>
+                                    <div class="testi-meta"><span class="testi-name">Hothi D.</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very supportive teacher and friendly batch mates."</p>
+                                <p class="testi-text">"Just awesome and fantastic"</p>
                             </div>
 
-                            <!-- 30. Umesh Karia -->
+                            <!-- 30. Manju Odedra -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#0891b2,#0e7490)">UK</div>
-                                    <div class="testi-meta"><span class="testi-name">Umesh Karia</span><span class="testi-date">9 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#d97706,#92400e)">MO</div>
+                                    <div class="testi-meta"><span class="testi-name">Manju Odedra</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Great experience. Highly recommend to students and professionals."</p>
+                                <p class="testi-text">"Mangalam Classes has been a truly wonderful and memorable experience for me. I had so much fun, and at the same time, I got to learn so many new and valuable things."</p>
                             </div>
 
-                            <!-- 31. Varsha Pandya -->
+                            <!-- 31. Arpita Modha -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#6366f1,#312e81)">VP</div>
-                                    <div class="testi-meta"><span class="testi-name">Varsha Pandya</span><span class="testi-date">9 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">AM</div>
+                                    <div class="testi-meta"><span class="testi-name">Arpita Modha</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very effective teaching methods for English speaking."</p>
+                                <p class="testi-text">"Very nice coaching and friendly atmosphere for learning spoken English. Highly satisfied!"</p>
                             </div>
 
-                            <!-- 32. Yogesh Chauhan -->
+                            <!-- 32. Mirali Modhavadiya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#be185d,#9d174d)">YC</div>
-                                    <div class="testi-meta"><span class="testi-name">Yogesh Chauhan</span><span class="testi-date">10 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#4285F4,#0d47a1)">MM</div>
+                                    <div class="testi-meta"><span class="testi-name">Mirali Modhavadiya</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very helpful for improving communication skills."</p>
+                                <p class="testi-text">"Best classes for spoken English. Vijay sir teaches very nicely and clears all doubts patiently."</p>
                             </div>
 
-                            <!-- 33. Alpa Solanki -->
+                            <!-- 33. Mahesh Odedra -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#059669,#065f46)">AS</div>
-                                    <div class="testi-meta"><span class="testi-name">Alpa Solanki</span><span class="testi-date">10 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#f59e0b,#b45309)">MO</div>
+                                    <div class="testi-meta"><span class="testi-name">Mahesh Odedra</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Wonderful classes. Learned so much in a short time."</p>
+                                <p class="testi-text">"Great place to learn spoken English with confidence. Vijay Sir is an excellent mentor."</p>
                             </div>
 
-                            <!-- 34. Bhavesh Joshi -->
+                            <!-- 34. Pooja Pratik -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#d97706,#92400e)">BJ</div>
-                                    <div class="testi-meta"><span class="testi-name">Bhavesh Joshi</span><span class="testi-date">10 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#7c3aed,#312e81)">PP</div>
+                                    <div class="testi-meta"><span class="testi-name">Pooja Pratik</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Best spoken English classes in Porbandar city."</p>
+                                <p class="testi-text">"Thank you for the wonderful teaching and support in improving my English."</p>
                             </div>
 
-                            <!-- 35. Chetan Rathod -->
+                            <!-- 35. Raj Chudasama -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#2563eb,#1e40af)">CR</div>
-                                    <div class="testi-meta"><span class="testi-name">Chetan Rathod</span><span class="testi-date">11 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#EA4335,#880e4f)">RC</div>
+                                    <div class="testi-meta"><span class="testi-name">Raj Chudasama</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very good coaching and supportive environment."</p>
+                                <p class="testi-text">"I really enjoy learning English in this class. The teacher explains every topic in a very simple and easy way. I have become more confident in speaking English after joining class. Vijay sir teaches in a friendly way. Thank you so much sir for your teaching and support!"</p>
                             </div>
 
-                            <!-- 36. Deepa Joshi -->
+                            <!-- 36. Aarati Khunti -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#9333ea,#581c87)">DJ</div>
-                                    <div class="testi-meta"><span class="testi-name">Deepa Joshi</span><span class="testi-date">11 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#0891b2,#0e7490)">AK</div>
+                                    <div class="testi-meta"><span class="testi-name">Aarati Khunti</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Thank you sir for building my confidence in English."</p>
+                                <p class="testi-text">"Thank you so much sir for your guidance and making English learning so easy and interactive."</p>
                             </div>
 
                         </div>
@@ -513,154 +513,165 @@
                     <div class="testi-slide">
                         <div class="testi-grid">
 
-                            <!-- 37. Gaurav Odedara -->
+                            <!-- 37. Deven Odedra -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">GO</div>
-                                    <div class="testi-meta"><span class="testi-name">Gaurav Odedara</span><span class="testi-date">11 months ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#059669,#065f46)">DO</div>
+                                    <div class="testi-meta"><span class="testi-name">Deven Odedra</span><span class="testi-date">1 week ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Excellent institute for English language learning."</p>
+                                <p class="testi-text">"One of the finest spoken English academies. Systematic teaching and practical exposure."</p>
                             </div>
 
-                            <!-- 38. Hardik Modha -->
+                            <!-- 38. Mayank Sondarva -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#4285F4,#0d47a1)">HM</div>
-                                    <div class="testi-meta"><span class="testi-name">Hardik Modha</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#2563eb,#1e40af)">MS</div>
+                                    <div class="testi-meta"><span class="testi-name">Mayank Sondarva</span><span class="testi-date">2 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very professional and effective teaching."</p>
+                                <p class="testi-text">"Vijay Sir provides top quality training for English speaking. Very polite and knowledgeable."</p>
                             </div>
 
-                            <!-- 39. Jatin Chavda -->
+                            <!-- 39. Yagnik Sondarva -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#f59e0b,#b45309)">JC</div>
-                                    <div class="testi-meta"><span class="testi-name">Jatin Chavda</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#9333ea,#581c87)">YS</div>
+                                    <div class="testi-meta"><span class="testi-name">Yagnik Sondarva</span><span class="testi-date">2 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Great experience and excellent results."</p>
+                                <p class="testi-text">"Best spoken English classes in Porbandar. Vijay sir explains everything very easily."</p>
                             </div>
 
-                            <!-- 40. Komal Keshwala -->
+                            <!-- 40. Vanaraj Kuchhadiya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#7c3aed,#312e81)">KK</div>
-                                    <div class="testi-meta"><span class="testi-name">Komal Keshwala</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#d97706,#92400e)">VK</div>
+                                    <div class="testi-meta"><span class="testi-name">Vanaraj Kuchhadiya</span><span class="testi-date">3 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very nice teaching style and friendly nature."</p>
+                                <p class="testi-text">"Excellent atmosphere and personalized attention to every student. Helped me speak fluent English."</p>
                             </div>
 
-                            <!-- 41. Manish Vadher -->
+                            <!-- 41. Sp Rajyaguru -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#EA4335,#880e4f)">MV</div>
-                                    <div class="testi-meta"><span class="testi-name">Manish Vadher</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">SR</div>
+                                    <div class="testi-meta"><span class="testi-name">Sp Rajyaguru</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Helped me overcome hesitation completely."</p>
+                                <p class="testi-text">"Exceptional teaching and very supportive faculty. Best coaching for beginners and advanced learners."</p>
                             </div>
 
-                            <!-- 42. Nikita Makwana -->
+                            <!-- 42. Parth Jadeja -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#0891b2,#0e7490)">NM</div>
-                                    <div class="testi-meta"><span class="testi-name">Nikita Makwana</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#4285F4,#0d47a1)">PJ</div>
+                                    <div class="testi-meta"><span class="testi-name">Parth Jadeja</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Best place to learn spoken English."</p>
+                                <p class="testi-text">"Great experience! Highly recommended for anyone wanting to speak English with confidence."</p>
                             </div>
 
-                            <!-- 43. Piyush Gorariya -->
+                            <!-- 43. Raju Ranavaya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#6366f1,#312e81)">PG</div>
-                                    <div class="testi-meta"><span class="testi-name">Piyush Gorariya</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#f59e0b,#b45309)">RR</div>
+                                    <div class="testi-meta"><span class="testi-name">Raju Ranavaya</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very good classes with practical activities."</p>
+                                <p class="testi-text">"Very effective spoken English classes. Clear grammar concepts and regular group discussion."</p>
                             </div>
 
-                            <!-- 44. Rinkal Parmar -->
+                            <!-- 44. Rahul Khistariya -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#be185d,#9d174d)">RP</div>
-                                    <div class="testi-meta"><span class="testi-name">Rinkal Parmar</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#7c3aed,#312e81)">RK</div>
+                                    <div class="testi-meta"><span class="testi-name">Rahul Khistariya</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Extremely helpful and well structured course."</p>
+                                <p class="testi-text">"Best spoken English class in the city. Thank you Vijay sir for your continuous guidance."</p>
                             </div>
 
-                            <!-- 45. Sachin Soneji -->
+                            <!-- 45. Raju Ulva -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#059669,#065f46)">SS</div>
-                                    <div class="testi-meta"><span class="testi-name">Sachin Soneji</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#EA4335,#880e4f)">RU</div>
+                                    <div class="testi-meta"><span class="testi-name">Raju Ulva</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Great teacher and wonderful environment."</p>
+                                <p class="testi-text">"Amazing learning atmosphere and top notch coaching by Vijay Joshi Sir."</p>
                             </div>
 
                         </div>
                     </div><!-- /slide 5 -->
 
-                    <!-- ===== SLIDE 6 (reviews 46–49) ===== -->
+                    <!-- ===== SLIDE 6 (reviews 46–50) ===== -->
                     <div class="testi-slide">
                         <div class="testi-grid">
 
-                            <!-- 46. Trupti Odedara -->
+                            <!-- 46. Jyesh Joshi -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#d97706,#92400e)">TO</div>
-                                    <div class="testi-meta"><span class="testi-name">Trupti Odedara</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#0891b2,#0e7490)">JJ</div>
+                                    <div class="testi-meta"><span class="testi-name">Jyesh Joshi</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very satisfied with the classes and guidance."</p>
+                                <p class="testi-text">"Best spoken English institute in Porbandar. Very helpful and experienced teacher."</p>
                             </div>
 
-                            <!-- 47. Vimal Thaker -->
+                            <!-- 47. Nidhi Pandit -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#2563eb,#1e40af)">VT</div>
-                                    <div class="testi-meta"><span class="testi-name">Vimal Thaker</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#059669,#065f46)">NP</div>
+                                    <div class="testi-meta"><span class="testi-name">Nidhi Pandit</span><span class="testi-date">4 weeks ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Top notch spoken English training."</p>
+                                <p class="testi-text">"Wonderful experience learning spoken English. The sessions are interactive and boost confidence."</p>
                             </div>
 
-                            <!-- 48. Yash Joshi -->
+                            <!-- 48. Janvi Odedara -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#9333ea,#581c87)">YJ</div>
-                                    <div class="testi-meta"><span class="testi-name">Yash Joshi</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#2563eb,#1e40af)">JO</div>
+                                    <div class="testi-meta"><span class="testi-name">Janvi Odedara</span><span class="testi-date">1 month ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Very helpful for grammar and fluency."</p>
+                                <p class="testi-text">"Shree Mangalam Classes is the best place to learn spoken English in Porbandar. Vijay Sir’s teaching method is exceptional. Grammar and vocabulary are taught effortlessly through conversation practice."</p>
                             </div>
 
-                            <!-- 49. Zankhana Modhwadia -->
+                            <!-- 49. Maadhav Thanki -->
                             <div class="testi-card">
                                 <div class="testi-card-top">
-                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#34A853,#1b5e20)">ZM</div>
-                                    <div class="testi-meta"><span class="testi-name">Zankhana Modhwadia</span><span class="testi-date">1 year ago</span></div>
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#9333ea,#581c87)">MT</div>
+                                    <div class="testi-meta"><span class="testi-name">Maadhav Thanki</span><span class="testi-date">2 years ago</span></div>
                                     <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
                                 </div>
                                 <div class="testi-stars">★★★★★</div>
-                                <p class="testi-text">"Thank you Vijay sir for your continuous support and excellent teaching."</p>
+                                <p class="testi-text">"Vijay Sir is an outstanding teacher. His concepts and speaking practice methods are the best."</p>
+                            </div>
+
+                            <!-- 50. CJ Sir -->
+                            <div class="testi-card">
+                                <div class="testi-card-top">
+                                    <div class="testi-avatar" style="background:linear-gradient(135deg,#d97706,#92400e)">CS</div>
+                                    <div class="testi-meta"><span class="testi-name">CJ Sir</span><span class="testi-date">2 years ago</span></div>
+                                    <div class="testi-google-g" title="Posted on Google"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg></div>
+                                </div>
+                                <div class="testi-stars">★★★★★</div>
+                                <p class="testi-text">"Top rated spoken English academy with high quality teaching and personal attention."</p>
                             </div>
 
                         </div>
@@ -687,7 +698,7 @@
                 </div>
 
                 <!-- Page counter -->
-                <p class="testi-page-counter" id="testiCounter">Page 1 of 6 &bull; Showing 9 of 49 reviews</p>
+                <p class="testi-page-counter" id="testiCounter">Page 1 of 6 &bull; Showing 9 of 50 reviews</p>
 
                 {{-- View All CTA --}}
                 <div style="text-align: center; margin-top: 2rem;">
@@ -696,7 +707,7 @@
                        onmouseover="this.style.borderColor='#4285F4'; this.style.color='#4285F4'; this.style.boxShadow='0 4px 16px rgba(66,133,244,0.2)';"
                        onmouseout="this.style.borderColor='#e2e8f0'; this.style.color='#1e293b'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.07)';">
                         <svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.66-5.17 3.66-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.34 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.34 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>
-                        View All 49 Reviews on Google
+                        View All 50 Reviews on Google
                         <i data-lucide="external-link" style="width: 0.95rem; height: 0.95rem;"></i>
                     </a>
                 </div>
@@ -900,7 +911,7 @@
                 (function() {
                     let currentSlide = 0;
                     const totalSlides = 6;
-                    const totalReviews = 49;
+                    const totalReviews = 50;
                     const reviewsPerPage = 9;
 
                     function updateSlider(index, shouldScroll = false) {
