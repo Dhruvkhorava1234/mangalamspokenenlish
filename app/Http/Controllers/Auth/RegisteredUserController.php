@@ -55,6 +55,13 @@ class RegisteredUserController extends Controller
 
         Auth::login($user);
 
+        // If a redirect URL was passed (e.g. from the course buy flow), send the user there.
+        // We validate it starts with the app URL to prevent open-redirect attacks.
+        $redirect = $request->input('redirect');
+        if ($redirect && str_starts_with($redirect, config('app.url'))) {
+            return redirect()->to($redirect);
+        }
+
         return redirect(route('student.dashboard', absolute: false));
     }
 }

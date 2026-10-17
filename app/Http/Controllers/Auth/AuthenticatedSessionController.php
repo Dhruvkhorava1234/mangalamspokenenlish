@@ -28,6 +28,13 @@ class AuthenticatedSessionController extends Controller
 
         $request->session()->regenerate();
 
+        // If a redirect URL was posted (e.g. from the course buy flow), honour it.
+        // Validate it starts with the app URL to prevent open-redirect attacks.
+        $redirect = $request->input('redirect');
+        if ($redirect && str_starts_with($redirect, config('app.url'))) {
+            return redirect()->to($redirect);
+        }
+
         if ($request->user()->isAdmin()) {
             return redirect()->intended(route('admin.dashboard', absolute: false));
         }

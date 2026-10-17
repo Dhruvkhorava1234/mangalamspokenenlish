@@ -62,7 +62,7 @@
                     </div>
                 @else
                     <div style="display: flex; align-items: center; gap: 1.5rem;">
-                        <a href="{{ route('checkout.show', $course->slug) }}" class="btn-primary" style="background-color: #2563eb; padding: 1rem 2rem; font-size: 1.1rem; border-radius: 0.75rem; box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.4);">
+                        <a href="{{ route('register') }}?redirect={{ urlencode(route('checkout.show', $course->slug)) }}" class="btn-primary" style="background-color: #2563eb; padding: 1rem 2rem; font-size: 1.1rem; border-radius: 0.75rem; box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.4);">
                             <i data-lucide="shopping-bag" style="width: 1.25rem; height: 1.25rem;"></i>
                             <span>Enroll Now &bull; ₹{{ number_format($course->price) }}</span>
                         </a>
@@ -95,9 +95,15 @@
                                 <span>Access Full Learning Viewer</span>
                             </a>
                         @else
-                            <a href="{{ route('checkout.show', $course->slug) }}" class="btn-primary" style="width: 100%; padding: 0.9rem; font-size: 1rem; margin-bottom: 1.5rem; justify-content: center;">
-                                <span>Buy Now &bull; Instant Access</span>
-                            </a>
+                            @auth
+                                <a href="{{ route('checkout.show', $course->slug) }}" class="btn-primary" style="width: 100%; padding: 0.9rem; font-size: 1rem; margin-bottom: 1.5rem; justify-content: center;">
+                                    <span>Buy Now &bull; Instant Access</span>
+                                </a>
+                            @else
+                                <a href="{{ route('register') }}?redirect={{ urlencode(route('checkout.show', $course->slug)) }}" class="btn-primary" style="width: 100%; padding: 0.9rem; font-size: 1rem; margin-bottom: 1.5rem; justify-content: center;">
+                                    <span>Buy Now &bull; Instant Access</span>
+                                </a>
+                            @endauth
                         @endif
 
                         <h4 style="font-size: 0.85rem; font-weight: 800; text-transform: uppercase; color: #475569; letter-spacing: 0.05em; margin-bottom: 0.75rem;">

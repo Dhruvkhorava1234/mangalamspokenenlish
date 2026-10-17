@@ -2,6 +2,22 @@
     <form method="POST" action="{{ route('register') }}">
         @csrf
 
+        {{-- Hidden redirect field so the controller knows where to send the user after registration --}}
+        @if(request('redirect'))
+            <input type="hidden" name="redirect" value="{{ request('redirect') }}">
+        @endif
+
+        {{-- Prominent "Already registered?" notice --}}
+        <div style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 0.6rem; padding: 0.85rem 1.1rem; margin-bottom: 1.25rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem;">
+            <span style="font-size: 0.9rem; color: #1e40af; font-weight: 600;">
+                Already have an account?
+            </span>
+            <a href="{{ route('login') }}{{ request('redirect') ? '?redirect='.urlencode(request('redirect')) : '' }}"
+               style="display: inline-block; background: #2563eb; color: #ffffff; font-size: 0.85rem; font-weight: 700; padding: 0.4rem 1rem; border-radius: 0.4rem; text-decoration: none; white-space: nowrap; transition: background 0.15s;">
+                Login here &rarr;
+            </a>
+        </div>
+
         <!-- Name -->
         <div>
             <x-input-label for="name" :value="__('Name')" />
@@ -47,10 +63,6 @@
         </div>
 
         <div class="flex items-center justify-end mt-4">
-            <a class="underline text-sm text-gray-600 hover:text-gray-900 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" href="{{ route('login') }}">
-                {{ __('Already registered?') }}
-            </a>
-
             <x-primary-button class="ms-4">
                 {{ __('Register') }}
             </x-primary-button>

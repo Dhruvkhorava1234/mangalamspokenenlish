@@ -2,6 +2,19 @@
     <!-- Session Status -->
     <x-auth-session-status class="mb-4" :status="session('status')" />
 
+    {{-- Show a "Register" nudge when the user arrived from the buy flow --}}
+    @if(request('redirect'))
+    <div style="background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 0.6rem; padding: 0.85rem 1.1rem; margin-bottom: 1.25rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem;">
+        <span style="font-size: 0.9rem; color: #166534; font-weight: 600;">
+            New here? Create a free account to continue.
+        </span>
+        <a href="{{ route('register') }}?redirect={{ urlencode(request('redirect')) }}"
+           style="display: inline-block; background: #16a34a; color: #ffffff; font-size: 0.85rem; font-weight: 700; padding: 0.4rem 1rem; border-radius: 0.4rem; text-decoration: none; white-space: nowrap;">
+            Register &rarr;
+        </a>
+    </div>
+    @endif
+
     <!-- Demo Credentials Helper Card -->
     <!-- <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 0.5rem; padding: 0.75rem 1rem; margin-bottom: 1.25rem; font-size: 0.8rem;">
         <strong style="color: #0b2545; display: block; margin-bottom: 0.25rem;">Demo Accounts Quick Click:</strong>
@@ -17,6 +30,11 @@
 
     <form method="POST" action="{{ route('login') }}">
         @csrf
+
+        {{-- Carry the redirect through the login form --}}
+        @if(request('redirect'))
+            <input type="hidden" name="redirect" value="{{ request('redirect') }}">
+        @endif
 
         <!-- Email or Phone Number -->
         <div>

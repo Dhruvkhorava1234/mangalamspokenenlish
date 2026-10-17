@@ -84,10 +84,17 @@
                                             <span>Access Course</span>
                                         </a>
                                     @else
-                                        <a href="{{ route('checkout.show', $course->slug) }}" class="btn-primary" style="padding: 0.65rem 1.5rem;">
-                                            <i data-lucide="shopping-cart" style="width: 1rem; height: 1rem;"></i>
-                                            <span>Buy Now</span>
-                                        </a>
+                                        @auth
+                                            <a href="{{ route('checkout.show', $course->slug) }}" class="btn-primary" style="padding: 0.65rem 1.5rem;">
+                                                <i data-lucide="shopping-cart" style="width: 1rem; height: 1rem;"></i>
+                                                <span>Buy Now</span>
+                                            </a>
+                                        @else
+                                            <a href="{{ route('register') }}?redirect={{ urlencode(route('checkout.show', $course->slug)) }}" class="btn-primary" style="padding: 0.65rem 1.5rem;">
+                                                <i data-lucide="shopping-cart" style="width: 1rem; height: 1rem;"></i>
+                                                <span>Buy Now</span>
+                                            </a>
+                                        @endauth
                                     @endif
                                 </div>
                             </div>
